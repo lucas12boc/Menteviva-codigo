@@ -1,0 +1,304 @@
+{
+    "appHeader": "Welcome back, take a deep breath.",
+    "languageSwitcher": {
+        "selectLanguage": "Select language"
+    },
+    "navigation": {
+        "home": "Home",
+        "moodTracker": "Mood Tracker",
+        "emotionalGarden": "Emotional Garden",
+        "resilienceSanctuary": "Resilience Sanctuary",
+        "training": "Training",
+        "safeSpace": "Safe Space",
+        "profile": "My Profile & Guide",
+        "settings": "Settings",
+        "logout": "Log Out",
+        "forBusiness": "For Business & HR"
+    },
+    "dashboard": {
+        "title": "Your Companion for a Vibrant Mind",
+        "subtitle": "Which path will you choose today on your wellness journey?",
+        "dailyReflection": {
+            "title": "Reflection of the Day",
+            "description": "Every sunrise is a new page in your story. You have the power to write a chapter filled with hope."
+        },
+        "moodTracker": {
+            "title": "AI Mood Tracking",
+            "description": "Log your daily emotions and get personalized therapeutic feedback.",
+            "cta": "Start Logging"
+        },
+        "emotionalGarden": {
+            "title": "Emotional Garden",
+            "description": "Watch your mood transform into a visual garden. Each entry cultivates a new flower, plant, or raindrop.",
+            "cta": "Visit My Garden"
+        },
+        "resilienceSanctuary": {
+            "title": "Resilience Sanctuary",
+            "description": "Save your moments of strength and clarity to build a personal library of your own resilience.",
+            "cta": "Visit My Sanctuary"
+        },
+        "emotionalTraining": {
+            "title": "Emotional Training",
+            "description": "Receive AI-generated exercises to build self-control and resilience.",
+            "cta": "Start Training"
+        },
+        "safeSpace": {
+            "title": "Inspiration Spaces",
+            "description": "Access calming messages, comfort, and positive affirmations.",
+            "cta": "Find Peace"
+        }
+    },
+    "settings": {
+        "title": "Settings",
+        "subtitle": "Customize the app's appearance to your liking.",
+        "appearance": {
+            "title": "Appearance",
+            "description": "Choose the theme that is most comfortable for your eyes and your mood."
+        },
+        "themeSwitcher": {
+            "changeTheme": "Switch between light and dark mode"
+        },
+        "profile": {
+            "title": "Your Emotional Profile",
+            "description": "Save your profile and goals so the AI can generate faster, more personalized trainings in the future. This information is saved only on your device.",
+            "saveButton": "Save Profile",
+            "saveSuccess": {
+                "title": "Profile Saved",
+                "description": "Your emotional profile and goals have been saved."
+            },
+            "saveError": {
+                "title": "Error Saving",
+                "description": "Could not save your profile. Please try again."
+            }
+        }
+    },
+    "moodTrackerPage": {
+        "title": "Daily Mood Log",
+        "subtitle": "Talk to your AI companion. How are you feeling right now? There are no right or wrong answers.",
+        "card": {
+            "title": "Your Thoughts",
+            "description": "This is a safe space to express yourself. Your log helps the AI understand you better and blossoms your garden."
+        },
+        "form": {
+            "label": "Today's Journal Entry",
+            "placeholder": "Tell me what's on your mind... for example, 'I felt anxious about work today' or 'I'm feeling happy and grateful for my family.'",
+            "validationError": "Please share a little more about how you're feeling.",
+            "submitButton": "Get AI Companion's Response",
+            "errorToast": {
+                "title": "Error",
+                "description": "There was an error getting your therapeutic response. Please try again."
+            }
+        },
+        "loadingState": "The AI Companion is thinking...",
+        "response": {
+            "title": "A Message From Your Companion",
+            "moodScore": "Mood Score"
+        },
+        "history": {
+            "title": "Mood History",
+            "subtitle7Days": "Your emotional progress over the last 7 days.",
+            "notEnoughData": "You need at least two entries in the last week to see the chart.",
+            "entriesTitle": "Recent Entries",
+            "yourEntry": "Your Entry"
+        }
+    },
+    "trainingPage": {
+        "title": "Personalized Emotional Training",
+        "subtitle": "Create a custom training module with AI to help you build emotional self-control.",
+        "card": {
+            "title": "Create Your Module",
+            "description": "Your data has been loaded from your Settings. You can modify it for this specific training if you wish!"
+        },
+        "form": {
+            "emotionalProfileLabel": "Your Emotional Profile",
+            "emotionalProfilePlaceholder": "Describe your common triggers, feelings, and emotional patterns. E.g., 'I often get overwhelmed in social situations and tend to isolate myself. I struggle with negative self-talk.'",
+            "emotionalProfileValidationError": "Please provide more details about your emotional patterns for better personalization.",
+            "trainingGoalsLabel": "Your Training Goals",
+            "trainingGoalsPlaceholder": "What do you want to work on? E.g., 'I want to learn how to manage my anxiety before it becomes a panic attack' or 'I want to be less impulsive in my reactions.'",
+            "trainingGoalsValidationError": "Please describe what you would like to achieve with this training.",
+            "submitButton": "Generate Training Module",
+            "errorToast": {
+                "title": "Error",
+                "description": "Could not generate your training module. Please try again."
+            }
+        },
+        "loadingState": "Generating your module...",
+        "response": {
+            "titlePrefix": "Training Module:"
+        }
+    },
+    "safeSpacePage": {
+        "title": "Your Inspiration Space",
+        "subtitle": "Find a quiet corner, read a message, and let go.",
+        "breathing": {
+            "title": "Guided Breathing",
+            "description": "Sync your breath with a calming guide to find your center."
+        },
+        "music": {
+            "title": "Calm Moment",
+            "description": "Find calm in the silence and melody of your thoughts."
+        },
+        "affirmations": {
+            "title": "Positive Affirmations",
+            "description": "Recharge with words of power and self-acceptance."
+        },
+        "comfort": {
+            "title": "Virtual Hug",
+            "description": "Receive a reminder that you are not alone and you are valuable."
+        }
+    },
+    "profilePage": {
+        "title": "Welcome to MenteViva",
+        "subtitle": "This is your guide to starting your journey toward emotional well-being.",
+        "about": {
+            "title": "What is MenteViva?",
+            "description": "MenteViva is your personal AI companion, designed to offer you emotional support and tools to strengthen your mental health. We are not a replacement for professional therapy, but a complement in your pocket, available 24/7 to listen, guide, and help you find calm."
+        },
+        "support": {
+            "title": "Support our Mission",
+            "description": "MenteViva is and always will be free. If you find value in this tool, please consider supporting our work with a small contribution. It helps us keep the app ad-free and accessible to everyone.",
+            "cta": "Support our Mission"
+        },
+        "contact": {
+            "title": "Contact & Feedback"
+        },
+        "tools": {
+            "title": "Explore Your Tools",
+            "moodTracker": {
+                "title": "AI Mood Tracking",
+                "description": "This is your tool for self-awareness. Log your daily emotions and thoughts, and our AI companion will offer an empathetic and therapeutic response. It helps you identify patterns and feel heard.",
+                "cta": "Log My Mood"
+            },
+            "emotionalGarden": {
+                "title": "Emotional Garden",
+                "description": "This is your personal sanctuary where you can visualize your emotional journey. Every mood you log blossoms into a flower for good days, a plant for calm days, or rain for challenging days, reminding you that all experiences contribute to your growth.",
+                "cta": "Visit My Garden"
+            },
+            "resilienceSanctuary": {
+                "title": "Resilience Sanctuary",
+                "description": "This is your personal library of strength. Save the thoughts and reflections that resonate with you. Revisit them in difficult times to remember your own ability to overcome. It is a powerful reminder of your journey and growth.",
+                "cta": "Visit My Sanctuary"
+            },
+            "emotionalTraining": {
+                "title": "Emotional Training",
+                "description": "Strengthen your mind. Based on your emotional profiles and goals, the AI generates personalized training modules. You will learn practical strategies to manage anxiety, impulsivity, and improve your emotional regulation.",
+                "cta": "Create a Training"
+            },
+            "safeSpace": {
+                "title": "Inspiration Spaces",
+                "description": "Your personal sanctuary for calm. Find messages of meditation, relaxing music, and positive affirmations. It's the perfect place to find peace in moments of stress.",
+                "cta": "Go to My Safe Space"
+            },
+            "crisisMode": {
+                "title": "Calm Button",
+                "description": "If you are feeling overwhelmed, this is your emergency button. It provides grounding and breathing techniques to help you regain calm immediately. You are not alone; we are here to help you through the moment.",
+                "cta": "Activate Calm Protocol"
+            }
+        }
+    },
+    "crisisModal": {
+        "trigger": "Calm",
+        "title": "Stay Calm. You Are Safe.",
+        "description": "Focus on your breath. Let's get grounded together.",
+        "anchoringTitle": "The 5-4-3-2-1 Grounding Exercise",
+        "anchoringSteps": {
+            "5": "Acknowledge FIVE things you see around you.",
+            "4": "Acknowledge FOUR things you can touch.",
+            "3": "Acknowledge THREE things you can hear.",
+            "2": "Acknowledge TWO things you can smell.",
+            "1": "Acknowledge ONE thing you can taste."
+        },
+        "breathingTitle": "Box Breathing",
+        "breathingDescription": "Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds. Repeat.",
+        "emergency": {
+            "title": "Emergency Contact",
+            "description": "If you are in danger or need immediate medical help, do not hesitate to contact your local emergency services.",
+            "police": "Police",
+            "ambulance": "Ambulance",
+            "footer": "These buttons will use the standard emergency number (911). If your country uses a different number, please dial it manually."
+        },
+        "closeButton": "Close"
+    },
+    "emotionalGarden": {
+        "title": "Your Emotional Garden",
+        "subtitle": "A reflection of your inner journey. Every day, a new leaf, a new flower.",
+        "garden": {
+            "title": "My Garden",
+            "description1": "Each item represents a mood log. Flowers are high-energy days, plants are calm moments, and rain represents challenges that help you grow.",
+            "descriptionPlural": "Hover over each item to see the date and score.",
+            "descriptionSingular": "Hover over the item to see the date and score."
+        },
+        "empty": {
+            "title": "Your garden is waiting to bloom",
+            "description": "You haven't logged any moods yet. Go to the Mood Tracker to plant your first seed.",
+            "cta": "Make my first entry"
+        }
+    },
+    "resilienceSanctuary": {
+        "title": "Resilience Sanctuary",
+        "subtitle": "A private collection of your own moments of strength and clarity. Revisit them anytime.",
+        "saveButton": "Save to Sanctuary",
+        "removeButton": "Remove",
+        "saveSuccess": {
+            "title": "Gem Saved",
+            "description": "Your moment of resilience has been saved to your sanctuary."
+        },
+        "saveError": {
+            "title": "Save Error",
+            "description": "Could not save your moment. Please try again."
+        },
+        "removeSuccess": {
+            "title": "Gem Removed",
+            "description": "The memory has been removed from your sanctuary."
+        },
+        "removeError": {
+            "title": "Remove Error",
+            "description": "Could not remove the memory. Please try again."
+        },
+        "confirmRemove": {
+            "title": "Are you sure?",
+            "description": "This action cannot be undone. This will permanently remove this memory from your sanctuary.",
+            "cancel": "Cancel",
+            "confirm": "Remove"
+        },
+        "empty": {
+            "title": "Your sanctuary is empty",
+            "description": "After a mood log, you can save the reflection here. It will become your personal library of strength to revisit in difficult times.",
+            "cta": "Make a new entry"
+        }
+    },
+    "forBusinessPage": {
+        "title": "MenteViva for Your Team",
+        "subtitle": "Invest in your company's most important asset: your employees' well-being. Discover how our tool can transform your work culture.",
+        "cta": "Request a Demo",
+        "backToApp": "Back to the app",
+        "features": {
+            "eyebrow": "Benefits",
+            "title": "A happier, more productive workforce",
+            "description": "Provide your team with the tools they need to manage stress, improve focus, and build emotional resilience, all in a confidential and supportive environment."
+        },
+        "benefits": {
+            "one": {
+                "title": "Reduce Stress and Burnout",
+                "description": "Offer employees a safe space to process emotions and access relaxation techniques, decreasing stress levels across the organization."
+            },
+            "two": {
+                "title": "Increase Productivity and Focus",
+                "description": "A mentally healthier team is a more focused and motivated team. MenteViva helps reduce distractions caused by anxiety."
+            },
+            "three": {
+                "title": "Foster a Positive Culture",
+                "description": "Show a genuine commitment to your employees' health, improving morale, loyalty, and attracting top talent."
+            },
+            "four": {
+                "title": "Fully Confidential",
+                "description": "We guarantee user privacy. Individual data is never shared. Only anonymized, aggregated reports are provided to measure impact."
+            }
+        },
+        "finalCta": {
+            "title": "Ready to transform your workplace?",
+            "description": "Contact us today for a personalized demo and find out how MenteViva can be tailored to your organization's needs.",
+            "cta": "Let's Talk"
+        }
+    }
+}
